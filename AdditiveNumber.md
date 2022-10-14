@@ -1,6 +1,10 @@
 
 ### Additive Number
-
+* An additive number is a string whose digits can form an additive sequence.
+* A valid additive sequence should contain at least three numbers. Except for the first two numbers,  
+each subsequent number in the sequence must be the sum of the preceding two. 
+* Given a string containing only digits, return true if it is an additive number or false otherwise.
+* Note: Numbers in the additive sequence cannot have leading zeros, so sequence 1, 2, 03, or 1, 02, 3 is invalid.
 
 ![Screenshot 2022-10-13 193506](https://user-images.githubusercontent.com/62577418/195749639-57c16eaa-bdc7-44ae-a094-fd160afe4ef5.png)
 
